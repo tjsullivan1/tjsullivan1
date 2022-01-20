@@ -1,0 +1,10 @@
+[user]
+	email = timothyj.sullivan1@gmail.com
+	name = Tim Sullivan
+
+[credential "https://github.com"]
+	helper = 
+	helper = !/usr/bin/gh auth git-credential
+
+[alias]
+	st = status -s -b
