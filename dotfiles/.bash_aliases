@@ -15,7 +15,7 @@ alias ll='ls -alF'
 alias la='ls -A'
 alias l='ls -CF'
 
-# TODO: Add Kubectl
+alias k='kubectl'
 alias pvenv='python3 -m venv .venv'
 alias activate='. .venv/bin/activate'
 alias require='pip install -r requirements.txt'
