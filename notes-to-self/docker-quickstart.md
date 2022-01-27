@@ -23,3 +23,7 @@ run a webapp and port forward for 8000 on local host:
 as above, but this time with the bash shel opening:
 
     docker run --rm -it -p 8000:80 file-uploader /bin/bash
+
+# Images
+
+Each RUN creates an image layer, so consider combining RUN instructions onto one line.
