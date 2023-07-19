@@ -7,9 +7,7 @@ I'm a Cloud Solution Architect specializing in Azure Infrastructure solutions. I
 - 🌱 I’m currently learning:
   - Python
   - Kubernetes
-  - Power Apps
-  - GatsbyJS
-  - Accounting
+  - Azure AI technologies
 - 💬 Ask me about: Azure, Personal Finance, Real Estate
 - 📫 How to reach me: shoot me an email OR connect with me on [LinkedIn](https://www.linkedin.com/in/tjsullivan1/) -- be sure to mention you found me on GitHub.
 - 😄 Pronouns: he/him
