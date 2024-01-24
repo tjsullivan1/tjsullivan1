@@ -23,3 +23,13 @@ $TP = $Keep -replace '\s',''
 winrm create winrm/config/Listener?Address=*+Transport=HTTPS '@{Hostname="'"$fqdn"'"; CertificateThumbprint="'"$TP"'"}'
 }
 ```
+
+## Updated with my stuff
+
+```
+$fqdn =  "cw-sql-test.sullivanenterprises.org"
+
+$Thumbprint = certutil -store My $fqdn | findstr /c:"Cert Hash(sha1)"
+$discard,$keep=$Thumbprint.split(":")
+$TP = $Keep -replace '\s',''
+```
