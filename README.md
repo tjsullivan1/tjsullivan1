@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a Cloud Solution Architect specializing in Azure Infrastructure solutions. I like to dabble with Python and PowerShell, building [toys](https://github.com/tjsullivan1/invoice-generator) and [tools](https://github.com/tjsullivan1/tjs-scripts) for myself. 
+I'm a technical specialist (presales architect) specializing in Azure App Innovation solutions. I like to dabble with Python and PowerShell, building [toys](https://github.com/tjsullivan1/invoice-generator) and [tools](https://github.com/tjsullivan1/tjs-scripts) for myself. 
 
 
 - 🔭 Outside of helping enterprises build their cloud solutions, I’m currently working on building a site and tools for [my fraternity alumni chapter](https://www.mnsigs.com), you can see the code for this in my repos. I might also get around to doing this for a personal site as well as my rental properties.
